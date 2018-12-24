@@ -1,2 +1,2 @@
 # Tanedo.github.io
-Launch Page
+[https://tanedo.github.io/](https://tanedo.github.io/)
